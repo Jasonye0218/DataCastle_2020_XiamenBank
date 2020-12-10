@@ -1,1 +1,2 @@
-# DataCastle_2020_XiamenBank
+# 2020厦门数创金融杯
+lgb单模混到0.49
